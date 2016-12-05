@@ -462,6 +462,9 @@ Checkout the official joblib documentation:
 
 - https://pythonhosted.org/joblib
 
+and this example:
+
+- https://github.com/ogrisel/parallel_ml_tutorial/blob/master/notebooks/06%20-%20Distributed%20Model%20Selection%20and%20Assessment.ipynb
 
 .. _warm-restarts:
 
